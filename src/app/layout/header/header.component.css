@@ -1,0 +1,12 @@
+header {
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.site-logo{
+    padding: 5px 20px;
+    border-radius: 20px;
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+
+}
