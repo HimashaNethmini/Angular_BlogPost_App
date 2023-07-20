@@ -1,6 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
 
 @import '~bootstrap/dist/css/bootstrap.min.css';
+@import url('https://fonts.googleapis.com/css2?family=Lugrasimo&display=swap');
+
 
 /* declare css variable */
 :root{
@@ -10,4 +12,12 @@
     --body-text-color:#596392;
     --navbar-footer-color:#F9F9F9;
 } /* add important to override bootstrap primary color */
+
+body {
+    font-family: 'Lugrasimo', cursive;
+    font-size: 21px;
+    color: var(--body-text-color);
+}
+
+
 
