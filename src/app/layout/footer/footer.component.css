@@ -9,5 +9,8 @@ footer{
     font-size: 1.2em;
 }
 
+.para {
+    background-color: var(--navbar-footer-color);  
+}
 
 
