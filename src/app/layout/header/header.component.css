@@ -5,4 +5,8 @@ header {
 
 .site-logo{
     font-size: 1.5rem;
+    padding: 5px 20px;
+    border-radius: 20px;
+    background-color: var(--secondary--color);
+    color: var(--primary-color);
 }

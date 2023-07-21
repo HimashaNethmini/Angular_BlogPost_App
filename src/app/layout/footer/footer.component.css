@@ -5,10 +5,6 @@ footer{
     margin-top: 85vh;
 }
 
-.site-logo {
-    font-size: 1.2em;
-}
-
 .para {
     background-color: var(--navbar-footer-color);  
 }
