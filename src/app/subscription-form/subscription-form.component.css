@@ -14,7 +14,8 @@ input[type = text], input[type = email] {
 .btn-sub {
     height: 58px;
     border: none;
-    font-size: 13px;
+    font-size: 14px;
+    font-weight: 900;
     background-color: var(--primary-color);
 }
 
