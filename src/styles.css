@@ -13,19 +13,23 @@
     --navbar-footer-color:#F9F9F9;
 } /* add important to override bootstrap primary color */
 
-body {
+body{
     font-family: 'Lugrasimo', cursive;
     font-size: 21px;
     color: var(--body-text-color);
 }
 
-.nav-link {
+.nav-link{
     color:var(--primary-color) ;
     
 }
 
-.shadow-effect {
+.shadow-effect{
     border: none;
     box-shadow: 0px 0px 33px -10px rgba(71,114,254,0.3);
+}
+
+.bg-theme{
+    background-color: var(--primary-color);
 }
 
