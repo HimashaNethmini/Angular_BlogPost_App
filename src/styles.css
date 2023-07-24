@@ -33,3 +33,10 @@ body{
     background-color: var(--primary-color);
 }
 
+.bg-secondary {
+    background-color: var(--secondary-color);
+}
+
+.text-theme {
+    color: var(--primary-color);
+}
