@@ -1,0 +1,11 @@
+.sub {
+    background-color: rgb(199, 199, 184)
+}
+
+.btn-sub {
+    height: 58px;
+    border: none;
+    font-size: 14px;
+    font-weight: 900;
+    background-color: var(--primary-color);
+}
